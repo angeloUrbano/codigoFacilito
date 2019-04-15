@@ -1,0 +1,23 @@
+commit a398df3ea10300c72f498ac80e115b24100a261d
+Author: angelo <angelourbannoo@gmail.com>
+Date:   Mon Apr 15 17:47:32 2019 -0430
+
+    agrege un parrafo a mi template
+
+commit 098ea40b6ee645d9366412aefcefbcb66d98066b
+Author: angelo <angelourbannoo@gmail.com>
+Date:   Mon Apr 15 17:45:39 2019 -0430
+
+    agrege otro formulario
+
+commit 739fa759a087ce3dcdbbc74563a8e53b35de953b
+Author: angelo <angelourbannoo@gmail.com>
+Date:   Mon Apr 15 17:44:05 2019 -0430
+
+    agrege otro boton a la pagina
+
+commit 42e5a42f9a22685d536e99f2b1f14905e7e6d829
+Author: angelo <angelourbannoo@gmail.com>
+Date:   Mon Apr 15 17:40:41 2019 -0430
+
+    iniciamos

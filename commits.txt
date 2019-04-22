@@ -1,20 +1,20 @@
-commit a398df3ea10300c72f498ac80e115b24100a261d
+commit 30f8f26670ad0f29d48fe84033b911c49ae65a75
 Author: angelo <angelourbannoo@gmail.com>
-Date:   Mon Apr 15 17:47:32 2019 -0430
+Date:   Wed Apr 17 20:43:08 2019 -0430
 
-    agrege un parrafo a mi template
+    agrege un parrafo
 
-commit 098ea40b6ee645d9366412aefcefbcb66d98066b
+commit 3d26915f523aeb3ab58992f925fe6912fe1aaa24
 Author: angelo <angelourbannoo@gmail.com>
-Date:   Mon Apr 15 17:45:39 2019 -0430
+Date:   Mon Apr 15 19:16:48 2019 -0430
 
-    agrege otro formulario
+     se agrego otro formulatio al template
 
-commit 739fa759a087ce3dcdbbc74563a8e53b35de953b
+commit b5ff1410c5481ff27f5187a7e29599fc852b2558
 Author: angelo <angelourbannoo@gmail.com>
-Date:   Mon Apr 15 17:44:05 2019 -0430
+Date:   Mon Apr 15 19:13:13 2019 -0430
 
-    agrege otro boton a la pagina
+    seagrego un boton
 
 commit 42e5a42f9a22685d536e99f2b1f14905e7e6d829
 Author: angelo <angelourbannoo@gmail.com>
